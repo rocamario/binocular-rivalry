@@ -1,3 +1,6 @@
+% File: count_spikes.m
+% Author: Mario Roca - mario.roca@etu-upsaclay.fr
+
 function [number_spikes, on_duration] = count_spikes(E, threshold)
 % Iterate through the signal, count the number of "spikes", and compute how
 % long the signal stays "on" 

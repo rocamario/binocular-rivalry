@@ -1,4 +1,5 @@
 % File: main.m
+% Author: Mario Roca - mario.roca@etu-upsaclay.fr
 
 % Parameter values
 tau = 15e-3;      % Time constant

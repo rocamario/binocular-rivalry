@@ -1,3 +1,6 @@
+% File: binocularRivalryModel.m
+% Author: Mario Roca - mario.roca@etu-upsaclay.fr
+
 function dx_dt = binocularRivalryModel(x)
     % Extract the state variables from x
     EL = x(1);  % Neuronal activity driven by L(t)
